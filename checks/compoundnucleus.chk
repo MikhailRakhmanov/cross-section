@@ -1,0 +1,26 @@
+
+************************************
+*          Particle Pairs          *
+************************************
+Pair Number: 1  Pair Key: 1
+            Light Particle J: 0
+       Light Particle Parity: 1
+            Light Particle Z: 0
+            Light Particle M: 1
+            Light Particle g: 0
+            Heavy Particle J: 0
+       Heavy Particle Parity: -1
+            Heavy Particle Z: 7
+            Heavy Particle M: 15
+            Heavy Particle g: 0
+     Seperation Energy [MeV]: 2.491
+     Excitation Energy [MeV]: 0
+              Channel Radius: 5
+                   Pair Type: Particle,Particle
+
+************************************
+*              Levels              *
+************************************
+  J Group #    J  Pi  Level #  Energy [MeV]  Channel #  l    s  Pair #      Width  Rad. Type
+          1    3   1        1         3.957          1  3    0       1       2000          P
+
